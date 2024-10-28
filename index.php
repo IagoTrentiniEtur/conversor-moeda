@@ -77,4 +77,7 @@ $resultado = realizarConversao($valor, $moedaOrigem, $moedaDestino);
         <p>Resultado da Conversão: <?php echo htmlspecialchars($resultado); ?></p>
     <?php endif; ?>
 </body>
+<footer>
+    <p>Feito por: Iago Trentini Etur</p>
+</footer>
 </html>
